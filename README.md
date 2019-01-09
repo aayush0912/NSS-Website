@@ -20,5 +20,7 @@ Vaibhav Goel (Contributor)
 
 Pranav Bajaj (Contributor)
 
+Aayush Shah (Contributor)
+
 (others add your name when you contribute)
 
